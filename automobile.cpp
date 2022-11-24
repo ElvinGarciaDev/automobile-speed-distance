@@ -1,6 +1,3 @@
-//          CSC237 Project2: Automobile Speed/Distance Application Program
-// Student: Elvin Garcia
-// Due date: Saturday, October 16, 2021
 // Description:
 //      simulates the speed of a car and 
 //     calculates the distance traveled over a period of time. 
