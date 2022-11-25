@@ -1,6 +1,7 @@
 # 🚗 Automobile Speed/Distance Tracker
 
 This programming project involves creating a C++ program that simulates the speed of a car and calculates the distance traveled over a period of time. Accepts keyboard input from the user and produces text output on the console.
+![Screen Shot 2022-11-24 at 9 35 00 PM](https://user-images.githubusercontent.com/91163017/203888941-3c742315-fde3-49ad-8b17-b70682ac3e6a.png)
 
 ![Screen_Recording_2022-11-24_at_4_21_54_PM_AdobeExpress](https://user-images.githubusercontent.com/91163017/203865038-6ac25df2-b2ca-46ad-aa93-b7cb22e98f47.gif)
 
