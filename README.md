@@ -17,4 +17,4 @@ Commands: "a" (accelerate) command increase the speed by 5 miles per hour (MPH) 
 ## Installation
 
 1. Clone repo
-2. Travel to repo location and run the exe file (https://www.youtube.com/watch?v=XaFg2vS62Bg&ab_channel=MackenzieRothenberger)
+2. (https://www.youtube.com/watch?v=XaFg2vS62Bg&ab_channel=MackenzieRothenberger)
